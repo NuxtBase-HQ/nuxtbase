@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hawang/nuxtbase-cli.git"
+    "url": "https://github.com/NuxtBase-HQ/nuxtbase.git"
   },
   "engines": {
     "node": ">=14.0.0"
