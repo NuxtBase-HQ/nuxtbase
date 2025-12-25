@@ -1,5 +1,5 @@
 {
-  "name": "nuxtbase",
+  "name": "@nuxtbase-hq/nuxtbase",
   "version": "0.0.1",
   "description": "The ultimate CLI tool for Nuxt development.",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NuxtBase-HQ/nuxtbase.git"
+    "url": "git+https://github.com/nuxtbase-hq/nuxtbase.git"
   },
   "engines": {
     "node": ">=14.0.0"

@@ -5,7 +5,7 @@ The ultimate CLI tool for Nuxt development.
 ## Installation
 
 ```bash
-npm install -g nuxtbase
+npm install -g @nuxtbase-hq/nuxtbase
 ```
 
 ## Usage
