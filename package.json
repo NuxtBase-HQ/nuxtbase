@@ -1,0 +1,27 @@
+{
+  "name": "nuxtbase",
+  "version": "0.0.1",
+  "description": "The ultimate CLI tool for Nuxt development.",
+  "main": "index.js",
+  "bin": {
+    "nuxtbase": "bin/nuxtbase.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt",
+    "cli",
+    "nuxtbase",
+    "scaffold"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hawang/nuxtbase-cli.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
