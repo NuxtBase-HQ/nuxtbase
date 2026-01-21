@@ -1,6 +1,6 @@
 # NuxtBase
 
-The ultimate CLI tool for Nuxt development.
+The official CLI for [NuxtBase](https://nuxtbase.com), the ultimate starting point for your next Nuxt project.
 
 ## Installation
 
